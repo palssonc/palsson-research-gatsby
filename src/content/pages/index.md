@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Craig Palsson
 tagline: Economic Historian, Development Economist, YouTuber
-featuredImage: /assets/3u6a2185.jpg
+featuredImage: /assets/3u6a2179.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
