@@ -20,7 +20,11 @@ const MenuItems = [
   },
   {
     path: "https://marketpower.substack.com/",
-    title: "Newsletter",
+    title: "General Newsletter",
+  },
+  {
+    path: "https://vodoueconomics.substack.com/",
+    title: "Haiti Newsletter",
   },
 ]
 
