@@ -11,16 +11,16 @@ const MenuItems = [
     title: "Home",
   },
   {
-    path: "/about",
-    title: "About",
+    path: "/research",
+    title: "Research",
   },
   {
     path: "/blog",
     title: "Blog",
   },
   {
-    path: "/contact",
-    title: "Contact",
+    path: "https://marketpower.substack.com/",
+    title: "Newsletter",
   },
 ]
 
