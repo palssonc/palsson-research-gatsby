@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Craig Palsson",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "",
+    "siteUrl": "https://www.craigpalsson.com",
+    "image": "/assets/market-power-logo-color.png",
+    "iconimage": "/assets/market-power-logo-color.png",
+    "twitterUsername": "@marketpoweryt"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
