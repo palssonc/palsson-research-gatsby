@@ -1,6 +1,6 @@
 ---
 template: about-page
-slug: /about
+slug: /research
 title: Craig Palsson's Research
 ---
 My work focuses on how institutions such as property rights and state capacity evolve in developing countries. A lot of this work looks at institutions in Haiti, contributing to our limited knowledge of its economic history.
