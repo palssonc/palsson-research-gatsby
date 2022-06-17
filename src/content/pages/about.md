@@ -9,6 +9,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 &nbsp;
 
+
 <center>
 
 <h3 style="color: #000000; font-variant: small-caps;">Working Papers</h3>
@@ -44,12 +45,11 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> Smartphones distract parents and their young kids get injured as a result.</ul>
 
-
 <a href="http://jse.sagepub.com/content/15/5/478.abstract">Technological change, relative worker productivity, and firm-level substitution: Evidence from the NBA</a> (with <a href="https://sites.google.com/site/grantgannaway/">Grant Gannaway</a>, <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>, and <a href="https://economics.byu.edu/directory/david-p-sims">David Sims</a>) <em>Journal of Sports Economics</em> October 2014; Vol. 15, 5: pp. 478-496
 
 <a href="http://www.tandfonline.com/doi/full/10.1080/17482798.2014.880359#.UwOJ1-KmVVZ">What Matters in Movie Ratings? Cross-country Differences in which Content Influence Mature Movie Ratings.</a> (with <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a> and <a href="https://drdouglas.org/">Doug Gentile</a>) <em>Journal of Children and Media</em>, February 2014, Vol. 8 , Iss. 3, pp 240-252
 
-<a href="http://ideas.repec.org/a/jsf/intjsf/v8y2013i2p157-170.html">Taxing the Opposition: Cactus League Attendance and the Efficiency of the ‘Cubs Tax,’</a> (with <a href="https://people.mst.edu/faculty/davismc/index.html">Michael Davis</a> and <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>) <em>International Journal of Sport Finance</em>, May 2013, Vol. 8, No. 2, pp 157-17
+<a href="/assets/Davis Palsson Price 2013.pdf">Taxing the Opposition: Cactus League Attendance and the Efficiency of the ‘Cubs Tax,’</a> (with <a href="https://people.mst.edu/faculty/davismc/index.html">Michael Davis</a> and <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>) <em>International Journal of Sport Finance</em>, May 2013, Vol. 8, No. 2, pp 157-17
 
 <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7287.2012.00315.x/abstract">Ratings and Revenues: Evidence from Movie Ratings</a>, (with <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a> and Jared Shores) <em>Contemporary Economic Policy</em>, January 2013, Vol. 31, Issue 1, pp 13-21
 
