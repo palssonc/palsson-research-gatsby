@@ -15,8 +15,8 @@ const MenuItems = [
     title: "Research",
   },
   {
-    path: "/blog",
-    title: "Blog",
+    path: "/me",
+    title: "Me",
   },
   {
     path: "https://marketpower.substack.com/",
