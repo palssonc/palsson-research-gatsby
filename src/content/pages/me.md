@@ -1,6 +1,6 @@
 ---
 template: about-page
-slug: /about
+slug: /me
 title: About Craig
 featuredImage: /assets/dscf0206.jpg
 ---
