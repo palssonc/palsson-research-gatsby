@@ -17,11 +17,11 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <a href="https://www.craigpalsson.com/wp-content/uploads/2021/07/WP-Palsson-State-Capacity-and-External-Revenues.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949 </a>(<b>Revisions requested</b>)
 
-Investments in fiscal capacity are blunted by access to external revenues. But how do external revenues affect investments in legal capacity? According to a simple model of state capacity investment, external revenues and investments in legal capacity should be positively correlated, but if higher fiscal capacity lowers the cost of investing in legal capacity, then the correlation might be negative. I test this prediction by looking at Haiti in 1942 when U.S. mobilization caused a negative shock to external revenues. I show the fall in revenues led to the state increasing investments in legal capacity and property rights security. I account for this inconsistency by showing that investment complementarities can alter how states invest in capacity.
+<em>tl;dr:</em> In response to WWII, Haiti increased its fiscal capacity, which allowed it increase its legal capacity.
 
 <a href="https://www.craigpalsson.com/wp-content/uploads/2021/07/WP-Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revisions Requested</b>) 
 
-We investigate the long-run effect of ride-hailing on public transit ridership, traffic congestion, and traffic fatalities. We identify ride-hailing’s long-run effect by exploiting British Columbia’s use of pre-existing regulation to ban ride-hailing from Vancouver. We use the synthetic control method to choose the set of treated cities that best matches Vancouver trends in each outcome before ride-hailing’s entry. We do not find a statistically significant effect of ride-hailing on our outcomes. Our confidence intervals provide bounds on the likely effect of ride-hailing on transit ridership and congestion that are smaller than many existing estimates. Our results for fatalities are imprecise.
+<em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.
 
 <center>
 <h3 style="color: #000000; font-variant: small-caps;">Publications</h3>
@@ -30,19 +30,19 @@ We investigate the long-run effect of ride-hailing on public transit ridership, 
 
 <a href="assets/Palsson 2021 CEP.pdf">The Medium-Run Effects of a Foreign Election Intervention: Haiti’s Presidential Elections, 2010-2015</a> <em>Contemporary Economic Policy</em> 40(2): 369-390. 2022
 
-The U.S. and other foreign actors often intervene in elections in countries transitioning to democracy. I examine the effects of such interventions on voter behavior. In 2010, the U.S. intervened in Haiti’s presidential election, advancing Michel Martelly over Jude Célestin. I look at the relationship between the intervention and voter behavior in the next election using Célestin’s 2010 vote share as a measure of the intervention’s intensity in a modified difference-in-differences analysis. Areas with greater Célestin support in 2010 had lower turnout in 2015. The relationship is robust to many sensitivity tests that account for possible confounding effects from fraud.
+<em>tl;dr:</em> The international community intervened in Haiti's election after the earthquake, and this intervention probably discouraged voters from participating in 2015.
 
 <a href="https://www.craigpalsson.com/Palsson JEH Web.pdf">Small Farms, Large Transaction Costs: Haiti's Missing Sugar </a> (2021) <em> Journal of Economic History, 81(2): 513--548</em>
 
-In the eighteenth century, Haiti was the world’s leading sugar producer, but when cane surged in the Caribbean in the early twentieth century, Haiti produced none. Instead, the land sat idle while workers emigrated to work on sugar plantations. I examine the hypothesis that historical property rights institutions created high transaction costs for converting land to cane production. I collect new data on land-use from 1928–1950 and a proxy for transaction costs. The evidence suggests transaction costs impeded the land market from responding to the sugar boom.
+<em>tl;dr:</em> Many Caribbean countries started producing sugar in the early 1900s, but Haiti, the once world-leading sugar producer, did not because of its property rights institutions.
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094119018300731">Is Uber a substitute or complement to public transit? </a> (with <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> and <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>). <em>Journal of Urban Economics</em> 108: 36-50. 2018
 
-How Uber affects public transit ridership is a relevant policy question facing cities worldwide. Theoretically, Uber’s effect on transit is ambiguous: while Uber is an alternative mode of travel, it can also increase the reach and flexibility of public transit’s fixed-route, fixed-schedule service. We estimate the effect of Uber on public transit ridership using a difference-in-differences design that exploits variation across U.S. metropolitan areas in both the intensity of Uber penetration and the timing of Uber entry. We find that Uber is a complement for the average transit agency, increasing ridership by five percent after two years. This average effect masks considerable heterogeneity, with Uber increasing ridership more in larger cities and for smaller transit agencies.
+<em>tl;dr:</em> It looks like Uber complements public transit on average, but the effect varies by city.
 
 <a href="http://www.sciencedirect.com/science/article/pii/S0047272717301810">Smartphones and Child Injuries</a> <em>Journal of Public Economics</em> December 2017; Vol. 156, pp. 200-213
 
-From 2005 to 2012, injuries to children under five increased by 10%, possibly because smartphones distract caregivers from supervising children. I exploit the expansion of AT&amp;T's 3G network in both a difference-in-differences and a triple difference framework and find that hospitals experienced a 5% increase in emergency department visits for children ages 0–5, but none for children ages 6–10, after getting 3G. Age-specific injury patterns on playgrounds, from poisoning, and in sports further support the conclusion that smartphones distract caregivers.
+<em>tl;dr:</em> Smartphones distract parents and their young kids get injured as a result.
 
 
 <a href="http://jse.sagepub.com/content/15/5/478.abstract">Technological change, relative worker productivity, and firm-level substitution: Evidence from the NBA</a> (with <a href="https://sites.google.com/site/grantgannaway/">Grant Gannaway</a>, <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>, and <a href="https://economics.byu.edu/directory/david-p-sims">David Sims</a>) <em>Journal of Sports Economics</em> October 2014; Vol. 15, 5: pp. 478-496
