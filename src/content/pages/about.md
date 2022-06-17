@@ -17,11 +17,11 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <a href="https://www.craigpalsson.com/wp-content/uploads/2021/07/WP-Palsson-State-Capacity-and-External-Revenues.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949 </a>(<b>Revisions requested</b>)
 
-<em>tl;dr:</em> In response to WWII, Haiti increased its fiscal capacity, which allowed it increase its legal capacity.
+<ul><em>tl;dr:</em> In response to WWII, Haiti increased its fiscal capacity, which allowed it to increase its legal capacity.</ul>
 
 <a href="https://www.craigpalsson.com/wp-content/uploads/2021/07/WP-Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revisions Requested</b>) 
 
-<em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.
+<ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
 
 <center>
 <h3 style="color: #000000; font-variant: small-caps;">Publications</h3>
@@ -30,19 +30,19 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <a href="assets/Palsson 2021 CEP.pdf">The Medium-Run Effects of a Foreign Election Intervention: Haiti’s Presidential Elections, 2010-2015</a> <em>Contemporary Economic Policy</em> 40(2): 369-390. 2022
 
-<em>tl;dr:</em> The international community intervened in Haiti's election after the earthquake, and this intervention probably discouraged voters from participating in 2015.
+<ul><em>tl;dr:</em> The international community intervened in Haiti's election after the earthquake, and this intervention probably discouraged voters from participating in 2015.</ul>
 
 <a href="https://www.craigpalsson.com/Palsson JEH Web.pdf">Small Farms, Large Transaction Costs: Haiti's Missing Sugar </a> (2021) <em> Journal of Economic History, 81(2): 513--548</em>
 
-<em>tl;dr:</em> Many Caribbean countries started producing sugar in the early 1900s, but Haiti, the once world-leading sugar producer, did not because of its property rights institutions.
+<ul><em>tl;dr:</em> Many Caribbean countries started producing sugar in the early 1900s, but Haiti, the once world-leading sugar producer, did not because of its property rights institutions.</ul>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094119018300731">Is Uber a substitute or complement to public transit? </a> (with <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> and <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>). <em>Journal of Urban Economics</em> 108: 36-50. 2018
 
-<em>tl;dr:</em> It looks like Uber complements public transit on average, but the effect varies by city.
+<ul><em>tl;dr:</em> It looks like Uber complements public transit on average, but the effect varies by city.</ul>
 
 <a href="http://www.sciencedirect.com/science/article/pii/S0047272717301810">Smartphones and Child Injuries</a> <em>Journal of Public Economics</em> December 2017; Vol. 156, pp. 200-213
 
-<em>tl;dr:</em> Smartphones distract parents and their young kids get injured as a result.
+<ul><em>tl;dr:</em> Smartphones distract parents and their young kids get injured as a result.</ul>
 
 
 <a href="http://jse.sagepub.com/content/15/5/478.abstract">Technological change, relative worker productivity, and firm-level substitution: Evidence from the NBA</a> (with <a href="https://sites.google.com/site/grantgannaway/">Grant Gannaway</a>, <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>, and <a href="https://economics.byu.edu/directory/david-p-sims">David Sims</a>) <em>Journal of Sports Economics</em> October 2014; Vol. 15, 5: pp. 478-496
