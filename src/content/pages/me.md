@@ -2,7 +2,7 @@
 template: about-page
 slug: /about
 title: About Craig
-featuredImage: /assets/DSCF0206.JPG
+featuredImage: /assets/dscf0206.jpg
 ---
 I am the proud father of 5 kids.
 
