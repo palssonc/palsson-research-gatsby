@@ -15,6 +15,10 @@ const MenuItems = [
     title: "Research",
   },
   {
+    path: "/assets/Craig_Palsson_CV.pdf",
+    title: "CV",
+  },
+  {
     path: "/me",
     title: "Me",
   },
