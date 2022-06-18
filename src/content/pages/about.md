@@ -55,7 +55,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <a href="/assets/Davis Palsson Price 2013.pdf">Taxing the Opposition: Cactus League Attendance and the Efficiency of the ‘Cubs Tax,’</a> (with <a href="https://people.mst.edu/faculty/davismc/index.html">Michael Davis</a> and <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a>) <em>International Journal of Sport Finance</em>, May 2013, Vol. 8, No. 2, pp 157-17
 
-<ul><em>tl;dr:</em> Cities always choose terrible ways to finance new stadiums..</ul>
+<ul><em>tl;dr:</em> Cities always choose terrible ways to finance new stadiums.</ul>
 
 <a href="/assets/Palsson Price Shores 2012 CEP.pdf">Ratings and Revenues: Evidence from Movie Ratings</a>, (with <a href="https://economics.byu.edu/directory/joseph-p-price">Joseph Price</a> and Jared Shores) <em>Contemporary Economic Policy</em>, January 2013, Vol. 31, Issue 1, pp 13-21
 
