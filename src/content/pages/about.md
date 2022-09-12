@@ -16,15 +16,15 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
-<a href="/assets/Palsson Refugee Camps.pdf">The Intergenerational Effects of Refugee Camps: Haiti, 1937–2009 </a>
+<a href="/assets/Palsson Refugee Camps.pdf">The Intergenerational Effects of Refugee Camps: Haiti, 1937–2009 </a> (<b>Under review</b>)
 
 <ul><em>tl;dr:</em> Haitian refugee camps that started in 1938 immediately affected land-use and had persistent effects on descendants 70 years later. </ul>
 
-<a href="/assets/Palsson State Capacity 2022.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949 </a>(<b>Revisions requested</b>)
+<a href="/assets/Palsson State Capacity 2022.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949 </a> (<b>Conditionally accepted, Journal of Economic History</b>)
 
 <ul><em>tl;dr:</em> In response to WWII, Haiti increased its fiscal capacity, which allowed it to increase its legal capacity.</ul>
 
-<a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revisions Requested</b>) 
+<a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revise and resubmit, Canadian Journal of Economics</b>)
 
 <ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
 
