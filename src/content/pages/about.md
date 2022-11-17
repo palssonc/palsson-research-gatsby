@@ -16,7 +16,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
-<a href="/assets/Palsson Refugee Camps.pdf">The Intergenerational Effects of Refugee Camps: Haiti, 1937–2009 </a> (<b>Under review</b>)
+<a href="/assets/Palsson Refugee Camps.pdf">The Intergenerational Effects of Refugee Camps: Haiti, 1937–2009 </a> (<b>Revise and resubmit, Explorations in Economic History</b>)
 
 <ul><em>tl;dr:</em> Haitian refugee camps that started in 1938 immediately affected land-use and had persistent effects on descendants 70 years later. </ul>
 
