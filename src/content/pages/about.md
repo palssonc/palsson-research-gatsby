@@ -16,6 +16,14 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
+<a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
+
+<ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permit requests.</ul> 
+
+<a href="/assets/Palsson Whirligig 11-2022.pdf">"A Whirligig of Revolutionary Presidents"State Capacity, Political Stability, and Business in Haiti, 1910-1922</a>
+
+<ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
+
 <a href="/assets/Palsson Refugee Camps.pdf">The Intergenerational Effects of Refugee Camps: Haiti, 1937–2009 </a> (<b>Revise and resubmit, Explorations in Economic History</b>)
 
 <ul><em>tl;dr:</em> Haitian refugee camps that started in 1938 immediately affected land-use and had persistent effects on descendants 70 years later. </ul>
