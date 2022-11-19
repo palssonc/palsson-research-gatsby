@@ -18,7 +18,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
-<ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permit requests.</ul> 
+<ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
 
 <a href="/assets/Palsson Whirligig 11-2022.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1910-1922</a>
 
