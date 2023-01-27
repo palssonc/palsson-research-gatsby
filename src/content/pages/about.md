@@ -16,6 +16,11 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
+<a href="/assets/Palsson Porter 2023 - 1.pdf">The Demand for Land Titles: Homesteading in Haiti, 1933—1950</a> (with Seth Porter)
+
+
+<ul><em>tl;dr:</em> We argue that a principal-agent problem impeded demand for a land titling program in Haiti.</ul>
+
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
