@@ -16,7 +16,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
-<a href="/assets/Palsson Porter 2023 - 2.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter)
+<a href="/assets/Palsson Porter 2023 - 2.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (under review)
 
 
 <ul><em>tl;dr:</em> We argue that a principal-agent problem impeded demand for a land titling program in Haiti.</ul>
