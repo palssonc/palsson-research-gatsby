@@ -29,7 +29,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
 
-<a href="/assets/Palsson Refugee Camps.pdf">The Forces of Path Dependence: Haiti's Refugee Camps, 1937–2009. </a> (<b>Revise and resubmit, Explorations in Economic History</b>)
+<a href="/assets/Palsson Refugee Camps.pdf">The Forces of Path Dependence: Haiti's Refugee Camps, 1937–2009. </a> (<b>Conditionally accepted, Explorations in Economic History</b>)
 
 <ul><em>tl;dr:</em> Haitian refugee camps that started in 1938 immediately affected land-use and had persistent effects on descendants 70 years later. </ul>
 
