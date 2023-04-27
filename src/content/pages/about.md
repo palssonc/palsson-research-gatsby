@@ -29,8 +29,6 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
 
-<a href="/assets/Palsson Refugee Camps.pdf">The Forces of Path Dependence: Haiti's Refugee Camps, 1937–2009. </a> (<b>Conditionally accepted, Explorations in Economic History</b>)
-
 <ul><em>tl;dr:</em> Haitian refugee camps that started in 1938 immediately affected land-use and had persistent effects on descendants 70 years later. </ul>
 
 <a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revise and resubmit, Canadian Journal of Economics</b>)
@@ -41,6 +39,10 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 <h3 style="color: #000000; font-variant: small-caps;">Publications</h3>
 </center>
 &nbsp;
+
+<a href="/assets/Palsson Refugee Camps.pdf">The Forces of Path Dependence: Haiti's Refugee Camps, 1937–2009.</a>  <em>Explorations in Economic History</em>, forthcoming
+
+<ul><em>tl;dr:</em> Even though they were free to migrate, refugees in Haitian camps chose to stay because of access to public land and social networks.</ul>
 
 <a href="/assets/Palsson State Capacity 2022.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949</a> <em>Journal of Economic History</em>, forthcoming
 
