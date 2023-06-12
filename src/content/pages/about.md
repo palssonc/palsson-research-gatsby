@@ -25,7 +25,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
 
-<a href="/assets/Palsson Whirligig 06-2023.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> (<b>Resubmitted, European Review of Economic History</b>)
+<a href="/assets/Palsson Whirligig 06-23.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> (<b>Resubmitted, European Review of Economic History</b>)
 
 <ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
 
