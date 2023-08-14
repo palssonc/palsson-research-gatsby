@@ -16,10 +16,15 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
+<a href="/assets/Palsson Porter 2023 - 6.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>) (under review)
+
+
+<ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
+
 <a href="/assets/Palsson Porter 2023 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (under review)
 
 
-<ul><em>tl;dr:</em> We argue that a principal-agent problem impeded demand for a land titling program in Haiti.</ul>
+<ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
 
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
@@ -29,7 +34,6 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
 
-<ul><em>tl;dr:</em> Haitian refugee camps that started in 1938 immediately affected land-use and had persistent effects on descendants 70 years later. </ul>
 
 <a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revise and resubmit, Canadian Journal of Economics</b>)
 
