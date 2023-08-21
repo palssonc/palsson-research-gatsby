@@ -16,19 +16,19 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
-<a href="/assets/Palsson Porter 2023 - 6.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>) (under review)
+<a href="/assets/Palsson Porter 2023 - 6.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
 
 <ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
 
-<a href="/assets/Palsson Porter 2023 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (under review)
-
-
-<ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
-
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
+
+<a href="/assets/Palsson Porter 2023 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (<b>Revisions Requested, Public Choice</b>)
+
+
+<ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
 
 <a href="/assets/Palsson Whirligig 06-23.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> (<b>Resubmitted, European Review of Economic History</b>)
 
