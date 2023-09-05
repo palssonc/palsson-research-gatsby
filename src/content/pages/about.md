@@ -35,11 +35,6 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
 
-<a href="/assets/Palsson Whirligig 06-23.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> (<b>Resubmitted, European Review of Economic History</b>)
-
-<ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
-
-
 <a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revise and resubmit, Canadian Journal of Economics</b>)
 
 <ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
@@ -49,11 +44,15 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 </center>
 &nbsp;
 
+<a href="/assets/Palsson Whirligig 06-23.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> <em>European Review of Economic History</em>, accepted
+
+<ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
+
 <a href="/assets/Palsson Refugee Camps.pdf">The Forces of Path Dependence: Haiti's Refugee Camps, 1937–2009.</a>  <em>Explorations in Economic History</em>, forthcoming
 
 <ul><em>tl;dr:</em> Even though they were free to migrate, refugees in Haitian camps chose to stay because of access to public land and social networks.</ul>
 
-<a href="/assets/Palsson State Capacity 2022.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949</a> <em>Journal of Economic History</em>, forthcoming
+<a href="/assets/Palsson State Capacity 2022.pdf">State Capacity, Property Rights, and External Revenues: Haiti, 1932–1949</a> <em>Journal of Economic History</em>, 83(3):  709-746, 2023.
 
 <ul><em>tl;dr:</em> In response to WWII, Haiti increased its fiscal capacity, which allowed it to increase its legal capacity.</ul>
 
