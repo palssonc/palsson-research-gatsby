@@ -3,7 +3,7 @@ template: about-page
 slug: /me
 title: About Craig
 ---
-I am a member of the Church of Jesus Christ of Latter-day Saints and the proud the father of 5 kids.
+I am a member of the Church of Jesus Christ of Latter-day Saints and the proud the father of 6 kids.
 
 I speak Haitian Creole thanks to my time as a missionary in Central Florida working with Haitian immigrants.
 
