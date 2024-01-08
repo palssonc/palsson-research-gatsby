@@ -44,7 +44,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 </center>
 &nbsp;
 
-<a href="/assets/Palsson Whirligig 06-23.pdf">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> <em>European Review of Economic History</em>, accepted
+<a href="https://academic.oup.com/ereh/advance-article/doi/10.1093/ereh/head025/7433521?guestAccessKey=bf8e19ec-719b-4e69-8238-2acc0208f1ab">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> <em>European Review of Economic History</em>, accepted
 
 <ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
 
