@@ -21,7 +21,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> We demonstrate a connection between Haiti's tradition of jointly owned properties and misallocation in agricultural plots, explaining a key feature of Haiti's underdevelopment.</ul>
 
-<a href="/assets/Marein Palsson DR Baseball 23_8.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
+<a href="/assets/Marein Palsson DR Baseball 24_1.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
 
 <ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
