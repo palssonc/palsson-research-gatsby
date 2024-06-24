@@ -30,7 +30,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
 
-<a href="/assets/Palsson Porter 2023 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (<b>Revisions Requested, Public Choice</b>)
+<a href="/assets/Palsson Porter 2024 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (<b>Revisions Requested, Public Choice</b>)
 
 
 <ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
