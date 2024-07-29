@@ -30,11 +30,6 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
 
-<a href="/assets/Palsson Porter 2024 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (<b>Revisions Requested, Public Choice</b>)
-
-
-<ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
-
 <a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revise and resubmit, Canadian Journal of Economics</b>)
 
 <ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
@@ -44,7 +39,11 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 </center>
 &nbsp;
 
-<a href="https://academic.oup.com/ereh/advance-article/doi/10.1093/ereh/head025/7433521?guestAccessKey=bf8e19ec-719b-4e69-8238-2acc0208f1ab">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> <em>European Review of Economic History</em>, accepted
+<a href="/assets/Palsson Porter 2024 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (Forthcoming, Public Choice)
+
+<ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
+
+<a href="https://academic.oup.com/ereh/advance-article/doi/10.1093/ereh/head025/7433521?guestAccessKey=bf8e19ec-719b-4e69-8238-2acc0208f1ab">"A Whirligig of Revolutionary Presidents": State Capacity, Political Stability, and Business in Haiti, 1905-1927</a> <em>European Review of Economic History</em>
 
 <ul><em>tl;dr:</em> The American occupation of Haiti immediately ended instability and increased state capacity. In response, more foreigners operated businesses in Haiti.</ul>
 
