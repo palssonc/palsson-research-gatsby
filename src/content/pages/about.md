@@ -16,7 +16,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
-<a href="/assets/Palsson Sonnenberg Plot Size 23-08.pdf">Incomplete Property Rights and Farm Size: Evidence from Haiti</a> (with Parker Sonnenberg)
+<a href="/assets/Palsson Sonnenberg Plot Size 24-10.pdf">Incomplete Property Rights and Farm Size: Evidence from Haiti</a> (with Parker Sonnenberg)
 
 
 <ul><em>tl;dr:</em> We demonstrate a connection between Haiti's tradition of jointly owned properties and misallocation in agricultural plots, explaining a key feature of Haiti's underdevelopment.</ul>
@@ -30,14 +30,14 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
 
-<a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (<b>Revise and resubmit, Canadian Journal of Economics</b>)
-
-<ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
-
 <center>
 <h3 style="color: #000000; font-variant: small-caps;">Publications</h3>
 </center>
 &nbsp;
+
+<a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (Accepted, Canadian Journal of Economics)
+
+<ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
 
 <a href="/assets/Palsson Porter 2024 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (Forthcoming, Public Choice)
 
