@@ -16,15 +16,18 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 </center>
 
+<a href="/assets/Palsson Fignole 2025-6.pdf">Early Experiments in Soft Power: State-Building in Haiti, 1915-34
+</a> (with Christian Fignole)
+
+
+<ul><em>tl;dr:</em> We use intelligence reports from the U.S. occupation of Haiti from 1915 to 1934 to show that American officials believed their state-building initiatives were persuading the Haitian elite to support the occupation.</ul>
+
 <a href="/assets/Palsson Sonnenberg Plot Size 24-10.pdf">Incomplete Property Rights and Farm Size: Evidence from Haiti</a> (with Parker Sonnenberg)
 
 
 <ul><em>tl;dr:</em> We demonstrate a connection between Haiti's tradition of jointly owned properties and misallocation in agricultural plots, explaining a key feature of Haiti's underdevelopment.</ul>
 
-<a href="/assets/Marein Palsson DR Baseball 24_1.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
-
-<ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
 
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
@@ -35,11 +38,16 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 </center>
 &nbsp;
 
+<a href="/assets/Marein Palsson DR Baseball EDCC 2025.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>) (forthcoming, Economic Development and Cultural Change)
+
+
+<ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
+
 <a href="/assets/WP Vancouver_and_Uber.pdf">VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities </a> (with John Cairncross and <a href="http://individual.utoronto.ca/jhall/">Jonathan Hall</a> (Accepted, Canadian Journal of Economics)
 
 <ul><em>tl;dr:</em> Vancouver banned Uber for 10 years, which lets us observe the long-run effects of Uber on public transit, congestion, and traffic fatalities.</ul>
 
-<a href="/assets/Palsson Porter 2024 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter) (Forthcoming, Public Choice)
+<a href="/assets/Palsson Porter 2024 - 6.pdf">The Inefficacy of Land Titling Programs: Homesteading in Haiti, 1933—1950</a> (with Seth Porter)  Public Choice, https://doi.org/10.1007/s11127-024-01195-9
 
 <ul><em>tl;dr:</em> A titling program in Haiti failed to generate much interest because onerous requirements prevented people from applying.</ul>
 
