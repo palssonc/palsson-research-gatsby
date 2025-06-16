@@ -38,7 +38,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 </center>
 &nbsp;
 
-<a href="/assets/Marein Palsson DR Baseball EDCC 2025.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>) (forthcoming, Economic Development and Cultural Change)
+<a href="/assets/Marein Palsson EDCC 2025.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>) (forthcoming, Economic Development and Cultural Change)
 
 
 <ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
