@@ -32,7 +32,16 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
 <ul><em>tl;dr:</em> We look at migration patterns to the Dominican Republic using new data on over 400,000 work permits.</ul> 
+&nbsp;
+<center>
+<h3 style="color: #000000; font-variant: small-caps;">White Papers</h3>
+</center>
+&nbsp;
 
+<a href="/assets/The Nouvo Biznis Indicator 2025 7.pdf">Real-Time Signals on Haiti’s Economy: The Nouvo Biznis Indicator (NBI)</a>
+<ul><em>tl;dr:</em> The Nouvo Biznis Indicator (NBI) is a real-time proxy for economic growth in Haiti.
+
+&nbsp;
 <center>
 <h3 style="color: #000000; font-variant: small-caps;">Publications</h3>
 </center>
