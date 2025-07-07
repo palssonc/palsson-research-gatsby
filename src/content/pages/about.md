@@ -39,7 +39,7 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 
 <a href="/assets/The Nouvo Biznis Indicator 2025 7.pdf">Real-Time Signals on Haiti’s Economy: The Nouvo Biznis Indicator (NBI)</a>
-<ul><em>tl;dr:</em> The Nouvo Biznis Indicator (NBI) is a real-time proxy for economic growth in Haiti.
+<ul><em>tl;dr:</em> The Nouvo Biznis Indicator (NBI) is a real-time proxy for economic growth in Haiti.</ul>
 
 &nbsp;
 <center>
