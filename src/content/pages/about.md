@@ -9,25 +9,19 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 
 &nbsp;
 
-
 <center>
 
 <h3 style="color: #000000; font-variant: small-caps;">Working Papers</h3>
 &nbsp;
 </center>
 
-<a href="/assets/Palsson Fignole 2025-6.pdf">Early Experiments in Soft Power: State-Building in Haiti, 1915-34
-</a> (with Christian Fignole)
-
+<a href="/assets/Palsson Fignole Occupation Support 2026 4.pdf">Early Experiments in Nation Building: The U.S. Occupation of Haiti, 1915-34 </a> (with Christian Fignole)
 
 <ul><em>tl;dr:</em> We use intelligence reports from the U.S. occupation of Haiti from 1915 to 1934 to show that American officials believed their state-building initiatives were persuading the Haitian elite to support the occupation.</ul>
 
 <a href="/assets/Palsson Sonnenberg Plot Size 24-10.pdf">Incomplete Property Rights and Farm Size: Evidence from Haiti</a> (with Parker Sonnenberg)
 
-
 <ul><em>tl;dr:</em> We demonstrate a connection between Haiti's tradition of jointly owned properties and misallocation in agricultural plots, explaining a key feature of Haiti's underdevelopment.</ul>
-
-
 
 <a href="/assets/marein_palsson.pdf">Migration in the Early 20th Century Caribbean: Evidence from Dominican Residency Permits</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>)
 
@@ -39,16 +33,17 @@ Another branch of my work looks at the effects of the rapid adoption of smartpho
 &nbsp;
 
 <a href="/assets/The Nouvo Biznis Indicator 2025 7.pdf">Real-Time Signals on Haiti’s Economy: The Nouvo Biznis Indicator (NBI)</a>
+
 <ul><em>tl;dr:</em> The Nouvo Biznis Indicator (NBI) is a real-time proxy for economic growth in Haiti.</ul>
 
 &nbsp;
+
 <center>
 <h3 style="color: #000000; font-variant: small-caps;">Publications</h3>
 </center>
 &nbsp;
 
 <a href="/assets/Marein Palsson EDCC 2025.pdf">Narrow Paths Out of Poverty and Educational Demand: Evidence from Dominican Baseball</a> (with <a href="https://sites.google.com/site/bcmarein">Brian Marein</a>) (forthcoming, Economic Development and Cultural Change)
-
 
 <ul><em>tl;dr:</em> While many believe that professional baseball recruiting in the Dominican Republic has hurt education, we find no evidence that it decreased educational attainment.</ul> 
 
